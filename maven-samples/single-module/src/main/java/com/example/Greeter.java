@@ -26,7 +26,5 @@ public class Greeter {
 	  System.out.println("Hello from HIIHIIHIHII!!!");
 	  System.out.println("Hello from HIIHIIHIHII!!!");
 	  System.out.println("Hello from HIIHIIHIHII!!!");
-	  System.out.println("Hello from HIIHIIHIHII!!!");
-	  System.out.println("Hello from HIIHIIHIHII!!!");
   }
 }
