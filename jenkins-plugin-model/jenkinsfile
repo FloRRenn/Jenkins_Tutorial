@@ -65,6 +65,12 @@ pipeline {
                 echo "Build Completed - Job Name: $jobName  --  Build Number: $buildNumber"
             }
         }
+
+        stage('Test SCM Poll') {
+            steps {
+                sh 'echo OKE'
+            }
+        }
     }
 }
 }
